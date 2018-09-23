@@ -18,6 +18,12 @@ DATA:    [          ]   0.2% (used 44 bytes from 20480 bytes)
 PROGRAM: [          ]   4.0% (used 2620 bytes from 65536 bytes)
 ```
 
+## STM32Cube LL
+```
+DATA:    [          ]   0.2% (used 32 bytes from 20480 bytes)
+PROGRAM: [          ]   1.1% (used 748 bytes from 65536 bytes)
+```
+
 ## CMSIS
 ```
 DATA:    [          ]   0.0% (used 0 bytes from 20480 bytes)
