@@ -1,9 +1,7 @@
 #define pinLED PC13
  
 void setup() {
-  Serial.begin(9600);
   pinMode(pinLED, OUTPUT);
-  Serial.println("START");  
 }
  
 void loop() {
@@ -11,5 +9,4 @@ void loop() {
   delay(100);
   digitalWrite(pinLED, LOW);
   delay(100);
-  Serial.println("Hello World");  
 }
